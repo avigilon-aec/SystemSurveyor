@@ -8,6 +8,8 @@ The latest update for these files is Jan 10, 2026.
   * H6SL Mini Dome
   * H6SL Bullet
   * H6M Micro Dome
+  * A5 Fisheye
+  * Compact Dome
 
 * Unity
   * H6A Dome
