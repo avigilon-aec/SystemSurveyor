@@ -50,3 +50,35 @@ The latest update for these files is Jan 10, 2026.
   * L6Q
   * L6A
 
+# Access Control Card Readers
+* Unity and Alta
+  * Signo 20
+  * Signo 40
+  * Signo 20k
+  * Signo 40k
+* Alta Only
+  * Standard Smart Reader
+  * Standard Smart Keypad Reader
+  * Mullion Smart Reader
+  * Mullion Smart keypad Reader
+  * Smart Video Reader
+  * Embedded USB Reader
+  * Video Intercom Reader Pro
+
+ # Access Control Controllers
+ * Unity and Alta
+   * MP1501
+   * MP1502
+   * MP2500
+   * MP4502
+   * MR16-IN
+   * MR16-OUT
+   * MR52
+   * MR62e
+ * Alta Only
+   * Single Door Controller
+   * Access Control Core
+   * 4 Port Expansion Board
+   * 8 Port Expansion Board
+   * Elevator Expansion Board
+   * 32 Input Expansion Board
