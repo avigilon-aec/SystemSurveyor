@@ -1,7 +1,7 @@
 # Welcome to Avigilon's SystemSurveyor Element File Library
 
 Thank you for your interest in these files, and if you have questions, please email consultant@motorolasolutions.com.
-The latest update for these files is Jan 10, 2026.
+Click on the Elements Profile Folder above to download the files. The latest update for these files is Jan 10, 2026.
 
 # Fixed Cameras
 * Alta
@@ -49,6 +49,8 @@ The latest update for these files is Jan 10, 2026.
 * Unity
   * L6Q
   * L6A
+
+# In Progress (to be done in future)
 
 # Access Control Card Readers
 * Unity and Alta
