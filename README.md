@@ -9,7 +9,6 @@ Click on the Elements Profile Folder above to download the files. The latest upd
   * H6SL Bullet
   * H6M Micro Dome
   * A5 Fisheye
-  * Compact Dome
 
 * Unity
   * H6A Dome
