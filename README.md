@@ -49,14 +49,8 @@ Click on the Elements Profile Folder above to download the files. The latest upd
   * L6Q
   * L6A
 
-# In Progress (to be done in future)
 
 # Access Control Card Readers
-* Unity and Alta
-  * Signo 20
-  * Signo 40
-  * Signo 20k
-  * Signo 40k
 * Alta Only
   * Standard Smart Reader
   * Standard Smart Keypad Reader
@@ -67,19 +61,30 @@ Click on the Elements Profile Folder above to download the files. The latest upd
   * Video Intercom Reader Pro
 
  # Access Control Controllers
- * Unity and Alta
-   * MP1501
-   * MP1502
+ * Alta Only
+   * Single Door Controller
+   * 4, 8, and 16 Door Hubs
+
+# Access Control Expansions
+   * Access Control Core
+   * 4 Port Expansion Board
+   * 8 Port Expansion Board
+   * Elevator Expansion Board
+   * 32 Input Expansion Board
+
+# In Progress (to be done in future)
+* Unity and Alta
+  * Signo 20
+  * Signo 40
+  * Signo 20k
+  * Signo 40k
    * MP2500
    * MP4502
    * MR16-IN
    * MR16-OUT
    * MR52
    * MR62e
- * Alta Only
-   * Single Door Controller
-   * Access Control Core
-   * 4 Port Expansion Board
-   * 8 Port Expansion Board
-   * Elevator Expansion Board
-   * 32 Input Expansion Board
+   * MP1501
+   * MP1502
+   * LifeSafetyPower Enclosures
+   * Altronix Enclosures
