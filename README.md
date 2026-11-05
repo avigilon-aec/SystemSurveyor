@@ -1,7 +1,7 @@
 # Welcome to Avigilon's SystemSurveyor Element File Library
 
 Thank you for your interest in these files, and if you have questions, please email consultant@motorolasolutions.com.
-Click on the Elements Profile Folder above to download the files. The latest update for these files is Jan 10, 2026.
+The latest Avigilon System Surveyor Element Profile catalogs are available as Excel (.xlsx) files directly in this repository. Select any catalog above to download it. The latest update for these files is Jan 10, 2026.
 
 # Fixed Cameras
 * Alta
